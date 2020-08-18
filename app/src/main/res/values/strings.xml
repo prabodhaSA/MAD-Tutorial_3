@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multi">*</string>
+    <string name="remindr">/</string>
+    <string name="number_2_">Number 2</string>
+    <string name="number_1_">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="number_1">Number 1</string>
+    <string name="_100_200_300">100+200=300</string>
+    <string name="_200">200</string>
+    <string name="_100">100</string>
+</resources>
